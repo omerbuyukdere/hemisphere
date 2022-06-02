@@ -30,5 +30,5 @@ const HemisphereDisplay = ({ latitude }) => {
     </div>
   );
 };
-
+// --------
 export default HemisphereDisplay;
